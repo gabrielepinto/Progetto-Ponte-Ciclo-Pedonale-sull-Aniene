@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "metro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 1394573.144625118700787, 5151818.904821867123246 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 1393660.020438826875761, 5150762.422936460003257 ] } }
+]
+}
